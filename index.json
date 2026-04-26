@@ -1,0 +1,6 @@
+{
+  "name": "Jingle Pack",
+  "entries": [
+    { "game": "Apotris", "file": "jingles/gba/flapperultra/Apotris.wav" },
+  ]
+}
