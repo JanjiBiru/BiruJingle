@@ -2,6 +2,10 @@
   "name": "Jingle Pack",
   "entries": [
     { "game": "Limbo",
-      "file": "jingles/android/Limbo.mp3" },
+      "file": "jingles/android/Limbo.mp3"
+    },
+    { "game": "Spongebob Squarepants - The Cosmic Shake",
+      "file": "jingles/android/Spongebob Squarepants - The Cosmic Shake.mp3"
+    },
   ]
 }
