@@ -10,8 +10,6 @@
     { "game": "A Space for the Unbound",
       "file": "jingles/steam/A Space for the Unbound.mp3"
     },
-    { "game": "The WereCleaner",
-      "file": "jingles/The%20WereCleaner.wav"
-    },
+    { "game": "The WereCleaner", "file": "jingles/The%20WereCleaner.wav" },
   ]
 }
