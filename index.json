@@ -1,15 +1,9 @@
 {
   "name": "Biru Jingle",
   "entries": [
-    { "game": "Limbo",
-      "file": "jingles/android/Limbo.mp3"
-    },
-    { "game": "Spongebob Squarepants - The Cosmic Shake",
-      "file": "jingles/android/Spongebob Squarepants - The Cosmic Shake.mp3"
-    },
-    { "game": "A Space for the Unbound",
-      "file": "jingles/steam/A Space for the Unbound.mp3"
-    },
+    { "game": "Limbo", "file": "jingles/android/Limbo.mp3" },
+    { "game": "Spongebob Squarepants - The Cosmic Shake", "file": "jingles/android/Spongebob Squarepants - The Cosmic Shake.mp3" },
+    { "game": "A Space for the Unbound", "file": "jingles/steam/A Space for the Unbound.mp3" },
     { "game": "The WereCleaner", "file": "jingles/The WereCleaner.wav" },
   ]
 }
